@@ -1,0 +1,4 @@
+# theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+title: NeRF-AD Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis
+description: The supplement materials of paper "NeRF-AD Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis"
