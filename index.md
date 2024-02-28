@@ -7,7 +7,7 @@
 ---
 
 <video style="width: 100%; height: 100%; margin: 0 auto;" controls>
-  <source src="demo video5.mp4" type="video/mp4">
+  <source src="cr.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -25,7 +25,7 @@
 ## Results
 ---
 
-![Alt text](result.jpg)
+![Alt text](result1.jpg)
 
 ## More Results
 ---
